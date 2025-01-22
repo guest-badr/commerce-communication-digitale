@@ -1,6 +1,8 @@
-# À propos
+# A propos
 
-Dans le cadre de la formation continue, en tant que développeur Web et mes collègues ont été animés ce site vitrine (projet scolaire) pour promotionner l'université et precisemment sa formation de licence professionnelle spécialisée en Commerce et Communication Digitale.
+## Contexte
+
+Dans le cadre de la formation continue, en tant que développeur Web et mes collègues ont été animés ce [site vitrine](https://guest-badr.github.io/commerce-communication-digitale/) (projet scolaire) pour promotionner l'université et precisemment sa formation de licence professionnelle spécialisée en Commerce et Communication Digitale.
 
 ## Plan du site
 
@@ -22,6 +24,6 @@ Ce site statique se constitue par les composants suivantes :
 
 HTML
 
-CSS (en respectant la convention de BEM)
+CSS (en respectant le prinicipe de BEM)
 
 Librairie de Bootstrap v5.0.2
